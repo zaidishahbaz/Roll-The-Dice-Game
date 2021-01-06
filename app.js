@@ -1,0 +1,2 @@
+var scores = [];
+var anything = []
